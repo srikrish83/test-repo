@@ -1,3 +1,3 @@
-# Test reporsitory
+# Test repository
 
-This is my first repo and file
+This is my first repo and file !!!
